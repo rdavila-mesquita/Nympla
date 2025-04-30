@@ -47,4 +47,18 @@ Ainda na pasta `Back-end`, execute:
 npm run dev
 ```
 
+
+### 5. Logar no site
+
+Profile
+```
+usuário: henrique@gmail.com
+senha: 543
+```
+
+Admin
+```
+usuário: admin@gmail.com
+senha: 123
+```
 ---
