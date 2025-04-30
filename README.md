@@ -2,6 +2,10 @@
 
 **Nympla** é um site desenvolvido inicialmente em sala de aula. O projeto tem como objetivo simular a funcionalidade de uma plataforma de eventos, semelhante ao Sympla.
 
+## Design
+Telas do projeto
+![alt text](<Design sem nome (1).png>)
+
 ## Tecnologias Utilizadas
 
 - [Node.js](https://nodejs.org/)
