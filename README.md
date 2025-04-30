@@ -4,7 +4,7 @@
 
 ## Design
 Telas do projeto
-![alt text](<Design sem nome (1).png>)
+![alt text](<telas.png>)
 
 ## Tecnologias Utilizadas
 
